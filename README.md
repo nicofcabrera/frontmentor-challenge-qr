@@ -10,4 +10,4 @@ La actividad consta de realizar una maquetación y quede lo más parecida a la i
 
 De esta manera voy poniendo en practica las habilidades que voy aprendiendo como futuro _Frontend Developer_.
 
-Dejo deploy a continuación: [Ir al sitio](https://teal-custard-6e3813.netlify.app/)
+**Dejo deploy a continuación:** [Ir al sitio](https://teal-custard-6e3813.netlify.app/)
